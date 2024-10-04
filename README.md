@@ -22,6 +22,7 @@ Features
 1. **Rainmeter** - [Download Rainmeter](https://www.rainmeter.net/)
 3. **Fonts**:
    - [DS-Digital Font](https://www.dafont.com/ds-digital.font) - Used for the digital clock and numeric displays.
+   - [Rajdhani Font](https://github.com/itfoundry/rajdhani) - Used for text elements in the background.
   
 Make sure to install these fonts to get the intended visual style!
 
@@ -39,6 +40,7 @@ Make sure to install these fonts to get the intended visual style!
 
 4. **Install Fonts**:
    - Download and install the [DS-Digital Font](https://www.dafont.com/ds-digital.font).
+   - Download and install the [Rajdhani Font](https://github.com/itfoundry/rajdhani).
 
 5. **Apply the Skin**:
    - Open Rainmeter, click the Rainmeter icon in the system tray.
@@ -53,3 +55,4 @@ This project is licensed under the [Creative Commons BY-ND 4.0](https://creative
 
 * [Rainmeter documentation for measures, meters and more](https://docs.rainmeter.net/manual/)
 * [DS-Digital font designed by Dusit Supasawat](https://www.dafont.com/font-comment.php?file=ds_digital)
+* [Rajdhani font designed by itfoundry](https://github.com/itfoundry/rajdhani?tab=readme-ov-file)
